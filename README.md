@@ -1,4 +1,7 @@
-### Hi there 👋
+
+## Welcome!!
+
+My name is Jay Levin. I am a new full stack software engineer that has a strong proficiency in React/Redux, Flask, and SQLAlchemy. I have over three years of previous consulting experience where I've developed a strong understanding of Agile methodologies and SLDC. As a recent graduate of a software engineering bootcamp focused on web development, I am actively honing these skills and looking for new opportunities where I can leverage my previous consulting experience and new technical skills.
 
 <!--
 **jaylevin96/jaylevin96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
